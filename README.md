@@ -5,3 +5,5 @@ Facebook Hacker Cup is an online hackathon organised by Facebook every year. Her
 Challenge problem statement: [lazy loading](https://www.facebook.com/hackercup/problem/169401886867367/)  
 Solution file: lazyLoading.py  
 Language: Python 3.5  
+
+__Note__: The challenges presented and input files provided are owned by [facebook.com](www.facebook.com)
